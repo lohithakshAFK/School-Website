@@ -1,0 +1,63 @@
+body{
+    text-align:center;
+}
+h2{
+    color:crimson;
+    text-shadow:2px;
+    border-bottom: 2px;
+    
+   
+}
+#soccer_field{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.navbar-inverse my_nav_bar{
+    
+}
+#my_nav_bar{
+    position:sticky;
+    z-index:99999;
+    top:0;
+}
+.achievement{
+    border:1px solid #172037;
+    padding-left;0px;
+    padding-right:0px;
+    float: none;
+    text-align: center;
+    margin-left:500px;
+ 
+    width:300px;
+}
+.achievements p{
+    text-align:center;
+}
+.text-nuted text-left{
+    text-align: center;
+    padding-left: 100px;
+}
+.navbar-inverse my_nav_bar{
+    position:sticky;
+}
+
+.bye{
+    width:600px;
+    height:375px;
+    border: 2px;
+    border-color: grey;
+}
+
+#needs_to_be_small{
+    width:100px;
+    height:75px;
+}
+
+.li{
+    text-align:center;
+}
+
+#insy-binsy{
+    height:"125px"
+    width:200px;
+}
